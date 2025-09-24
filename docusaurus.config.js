@@ -84,12 +84,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/paysera-social-card.jpg',
+      image: 'img/paysera-logo.svg',
       navbar: {
         title: 'Paysera API',
         logo: {
           alt: 'Paysera Logo',
-          src: '/Paysera-Developer-Portal-Docusaurus-Demo/img/paysera-logo.svg',
+          src: '/img/paysera-logo.svg',
           href: '/',
           width: 32,
           height: 32,
