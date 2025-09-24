@@ -20,10 +20,10 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://api-docs.paysera.com',
+  url: 'https://lanochkaa.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/Paysera-Developer-Portal-Docusaurus-Demo/',
 
   // GitHub pages deployment config.
   organizationName: 'paysera',
