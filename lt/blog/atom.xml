@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog</id>
+    <title>Paysera API Documentation Blog</title>
+    <updated>2024-03-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog"/>
+    <subtitle>Paysera API Documentation Blog</subtitle>
+    <icon>https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Paysera Unveils Its Brand New Logo!]]></title>
+        <id>https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/paysera-new-logo</id>
+        <link href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/paysera-new-logo"/>
+        <updated>2024-03-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're excited to share that Paysera has introduced a refreshed brand identity with a stunning new logo design!]]></summary>
+        <content type="html"><![CDATA[<p>We're excited to share that Paysera has introduced a refreshed brand identity with a stunning new logo design!</p>
+<p><img decoding="async" loading="lazy" src="https://www.paysera.ua/v2/en-UA/blog/new-paysera-logo" alt="Paysera New Logo Variations" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/paysera-new-logo#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
+<p>The new Paysera logo represents:</p>
+<ul>
+<li><strong>Modern Design</strong>: Clean, minimalistic approach</li>
+<li><strong>Professional Identity</strong>: Refined "P" symbol with official color palette</li>
+<li><strong>Brand Evolution</strong>: Updated visual identity while maintaining recognizability</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="official-blog-post">Official Blog Post<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/paysera-new-logo#official-blog-post" class="hash-link" aria-label="Direct link to Official Blog Post" title="Direct link to Official Blog Post">​</a></h2>
+<p>Read the complete story about Paysera's brand evolution and see all logo variations:</p>
+<p>📖 <strong><a href="https://www.paysera.ua/v2/en-UA/blog/new-paysera-logo" target="_blank" rel="noopener noreferrer">Read the full announcement →</a></strong></p>
+<p><em>Published by Justina Šidlauskienė, March 2022</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="design-implementation">Design Implementation<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/paysera-new-logo#design-implementation" class="hash-link" aria-label="Direct link to Design Implementation" title="Direct link to Design Implementation">​</a></h2>
+<p>This documentation site uses the official Paysera logo and brand colors to demonstrate how the new branding can be implemented in developer-focused platforms.</p>
+<hr>
+<p><strong>Note</strong>: This demo site showcases the new Paysera branding in a Docusaurus context. For official brand guidelines and resources, visit <a href="https://paysera.com/" target="_blank" rel="noopener noreferrer">paysera.com</a>.</p>]]></content>
+        <author>
+            <name>Paysera Development Team</name>
+            <uri>https://developers.paysera.com</uri>
+        </author>
+        <category label="Branding" term="Branding"/>
+        <category label="Logo" term="Logo"/>
+        <category label="Company News" term="Company News"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docusaurus Demo - Paysera Developer Portal Mockup]]></title>
+        <id>https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/docusaurus-demo</id>
+        <link href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/docusaurus-demo"/>
+        <updated>2024-01-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post demonstrates how a modern developer portal could look using Docusaurus with Paysera's official branding.]]></summary>
+        <content type="html"><![CDATA[<p>This blog post demonstrates how a modern developer portal could look using Docusaurus with Paysera's official branding.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="about-this-demo">About This Demo<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/docusaurus-demo#about-this-demo" class="hash-link" aria-label="Direct link to About This Demo" title="Direct link to About This Demo">​</a></h2>
+<p>This website is a <strong>demonstration</strong> showing how <a href="https://developers.paysera.com/" target="_blank" rel="noopener noreferrer">developers.paysera.com</a> could be redesigned using Docusaurus - a modern static site generator.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="what-this-demo-shows">What This Demo Shows<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/docusaurus-demo#what-this-demo-shows" class="hash-link" aria-label="Direct link to What This Demo Shows" title="Direct link to What This Demo Shows">​</a></h3>
+<ul>
+<li><strong>Official Paysera Branding</strong> - Colors, logo, and design language</li>
+<li><strong>Modern Documentation Structure</strong> - Clean, organized content layout</li>
+<li><strong>Advanced Features</strong> - Search, blog, multi-language support</li>
+<li><strong>Developer-Friendly Design</strong> - Professional appearance and navigation</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="technologies-used">Technologies Used<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/docusaurus-demo#technologies-used" class="hash-link" aria-label="Direct link to Technologies Used" title="Direct link to Technologies Used">​</a></h3>
+<ul>
+<li><strong>Docusaurus v3</strong> - Static site generator</li>
+<li><strong>React</strong> - Component-based UI</li>
+<li><strong>Markdown/MDX</strong> - Content management</li>
+<li><strong>CSS Modules</strong> - Styled components</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="features-demonstrated">Features Demonstrated<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/docusaurus-demo#features-demonstrated" class="hash-link" aria-label="Direct link to Features Demonstrated" title="Direct link to Features Demonstrated">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-design--branding">🎨 <strong>Design &amp; Branding</strong><a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/docusaurus-demo#-design--branding" class="hash-link" aria-label="Direct link to -design--branding" title="Direct link to -design--branding">​</a></h3>
+<ul>
+<li>Official Paysera blue color scheme (#0066cc)</li>
+<li>Professional logo matching Paysera's brand identity</li>
+<li>Clean, minimalistic design aesthetic</li>
+<li>High contrast text for accessibility</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-documentation-features">📚 <strong>Documentation Features</strong><a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/docusaurus-demo#-documentation-features" class="hash-link" aria-label="Direct link to -documentation-features" title="Direct link to -documentation-features">​</a></h3>
+<ul>
+<li>Structured documentation with clear navigation</li>
+<li>Code syntax highlighting</li>
+<li>Professional callout boxes</li>
+<li>Responsive design for all devices</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-technical-capabilities">🔧 <strong>Technical Capabilities</strong><a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/docusaurus-demo#-technical-capabilities" class="hash-link" aria-label="Direct link to -technical-capabilities" title="Direct link to -technical-capabilities">​</a></h3>
+<ul>
+<li>Blog system for developer updates</li>
+<li>Search functionality</li>
+<li>SEO optimization</li>
+<li>Plugin architecture</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="important-notice">Important Notice<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/docusaurus-demo#important-notice" class="hash-link" aria-label="Direct link to Important Notice" title="Direct link to Important Notice">​</a></h2>
+<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Demo Only</div><div class="admonitionContent_BuS1"><p>This is a <strong>technical demonstration</strong> and <strong>NOT</strong> official Paysera documentation.</p><p>For real Paysera services and documentation:</p><ul>
+<li>Visit <a href="https://developers.paysera.com/" target="_blank" rel="noopener noreferrer">developers.paysera.com</a></li>
+<li>Go to <a href="https://paysera.com/" target="_blank" rel="noopener noreferrer">paysera.com</a></li>
+</ul></div></div>
+<hr>
+<p><em>Demo created to showcase modern documentation possibilities with Paysera branding</em></p>]]></content>
+        <author>
+            <name>Paysera Development Team</name>
+            <uri>https://developers.paysera.com</uri>
+        </author>
+        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="Demo" term="Demo"/>
+        <category label="Mockup" term="Mockup"/>
+        <category label="Design" term="Design"/>
+    </entry>
+</feed>

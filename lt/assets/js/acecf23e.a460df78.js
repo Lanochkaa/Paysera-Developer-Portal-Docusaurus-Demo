@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpaysera_docs=self.webpackChunkpaysera_docs||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog","blogTitle":"Blog","authorsListPath":"/Paysera-Developer-Portal-Docusaurus-Demo/lt/blog/authors"}')}}]);
