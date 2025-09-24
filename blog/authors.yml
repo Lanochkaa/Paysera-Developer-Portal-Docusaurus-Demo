@@ -1,0 +1,23 @@
+paysera-team:
+  name: Paysera Development Team
+  title: API Development Team
+  url: https://developers.paysera.com
+  image_url: https://paysera.com/v2/image/paysera-logo.png
+
+john-doe:
+  name: John Doe
+  title: Senior Backend Developer @ Paysera
+  url: https://linkedin.com/in/johndoe-paysera
+  image_url: https://github.com/johndoe.png
+
+jane-smith:
+  name: Jane Smith
+  title: Developer Relations Engineer @ Paysera
+  url: https://twitter.com/janesmith_dev
+  image_url: https://github.com/janesmith.png
+
+alex-johnson:
+  name: Alex Johnson
+  title: Payment Integration Specialist @ Paysera
+  url: https://github.com/alex-johnson-paysera
+  image_url: https://github.com/alexjohnson.png

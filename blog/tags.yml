@@ -1,0 +1,44 @@
+demo:
+  label: Demo
+  permalink: /demo
+  description: Demo projects and examples
+
+mockup:
+  label: Mockup
+  permalink: /mockup
+  description: Design mockups and prototypes
+
+design:
+  label: Design
+  permalink: /design
+  description: UI/UX design and branding
+
+branding:
+  label: Branding
+  permalink: /branding
+  description: Brand identity and visual design
+
+logo:
+  label: Logo
+  permalink: /logo
+  description: Logo design and brand symbols
+
+company-news:
+  label: Company News
+  permalink: /company-news
+  description: Official company updates and announcements
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus documentation platform
+
+api:
+  label: API
+  permalink: /api
+  description: API development and integration
+
+webhooks:
+  label: Webhooks
+  permalink: /webhooks
+  description: Webhook integration and best practices
