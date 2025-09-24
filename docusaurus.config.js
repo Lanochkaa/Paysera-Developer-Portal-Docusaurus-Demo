@@ -89,7 +89,7 @@ const config = {
         title: 'Paysera API',
         logo: {
           alt: 'Paysera Logo',
-          src: 'img/paysera-logo.svg',
+          src: '/Paysera-Developer-Portal-Docusaurus-Demo/img/paysera-logo.svg',
           href: '/',
           width: 32,
           height: 32,
