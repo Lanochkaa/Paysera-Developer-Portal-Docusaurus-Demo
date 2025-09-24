@@ -3,6 +3,7 @@ slug: paysera-new-logo
 title: Paysera Unveils Its Brand New Logo!
 authors: [paysera-team]
 tags: [branding, logo, company-news]
+date: 2025-09-24
 ---
 
 # Paysera Unveils Its Brand New Logo!
@@ -11,7 +12,7 @@ We're excited to share that Paysera has introduced a refreshed brand identity wi
 
 <!-- truncate -->
 
-![Paysera New Logo Variations](https://www.paysera.ua/v2/en-UA/blog/new-paysera-logo)
+![Paysera New Logo](/img/paysera-logo.svg)
 
 ## What's New?
 

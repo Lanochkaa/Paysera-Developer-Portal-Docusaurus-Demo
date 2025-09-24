@@ -13,7 +13,7 @@ function HomepageHeader() {
         <div className={styles.heroContent}>
           <div className={styles.logoSection}>
             <div className={styles.payseraLogo}>
-              <img src="/img/paysera-logo.svg" alt="Paysera" className={styles.logoIcon} />
+              <img src="img/paysera-logo.svg" alt="Paysera" className={styles.logoIcon} />
               <span className={styles.logoText}>Paysera</span>
             </div>
             <Heading as="h1" className={styles.heroTitle}>

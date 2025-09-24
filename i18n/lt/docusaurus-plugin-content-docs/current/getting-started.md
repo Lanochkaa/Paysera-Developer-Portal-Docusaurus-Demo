@@ -165,12 +165,11 @@ Naudokite šiuos testinius kortelių numerius testuojamojoje aplinkoje:
 
 ## Kiti žingsniai
 
-Dabar, kai turite pagrindinį nustatymą, ištyrinėkite šias pagrindines funkcijas:
+Dabar, kai turite pagrindinį nustatymą, galite:
 
-1. **[Mokėjimų apdorojimas](./features/payment-processing)** - Priimkite mokėjimus iš klientų
-2. **[Paskyrų valdymas](./features/account-management)** - Valdykite vartotojų paskyras ir balansus
-3. **[Webhook'ai](./features/webhooks)** - Gaukite realaus laiko mokėjimo pranešimus
-4. **[API žinynas](./api/payments)** - Detalus API dokumentacija
+- Ištyrinėti API funkcijas
+- Skaityti DUK (dažnai užduodamus klausimus)
+- Peržiūrėti pilną dokumentaciją
 
 ## Reikia pagalbos?
 

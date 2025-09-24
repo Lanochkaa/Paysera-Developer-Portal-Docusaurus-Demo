@@ -2,7 +2,7 @@ paysera-team:
   name: Paysera Development Team
   title: API Development Team
   url: https://developers.paysera.com
-  image_url: https://paysera.com/v2/image/paysera-logo.png
+  image_url: /img/paysera-logo.svg
 
 john-doe:
   name: John Doe

@@ -3,6 +3,7 @@ slug: docusaurus-demo
 title: Docusaurus Demo - Paysera Developer Portal Mockup
 authors: [paysera-team]
 tags: [docusaurus, demo, mockup, design]
+date: 2025-09-24
 ---
 
 This blog post demonstrates how a modern developer portal could look using Docusaurus with Paysera's official branding.
