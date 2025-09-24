@@ -2,47 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog</id>
     <title>Paysera API Documentation Blog</title>
-    <updated>2024-03-01T00:00:00.000Z</updated>
+    <updated>2025-09-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog"/>
     <subtitle>Paysera API Documentation Blog</subtitle>
     <icon>https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Paysera Unveils Its Brand New Logo!]]></title>
-        <id>https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog/paysera-new-logo</id>
-        <link href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog/paysera-new-logo"/>
-        <updated>2024-03-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We're excited to share that Paysera has introduced a refreshed brand identity with a stunning new logo design!]]></summary>
-        <content type="html"><![CDATA[<p>We're excited to share that Paysera has introduced a refreshed brand identity with a stunning new logo design!</p>
-<p><img decoding="async" loading="lazy" src="https://www.paysera.ua/v2/en-UA/blog/new-paysera-logo" alt="Paysera New Logo Variations" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog/paysera-new-logo#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
-<p>The new Paysera logo represents:</p>
-<ul>
-<li><strong>Modern Design</strong>: Clean, minimalistic approach</li>
-<li><strong>Professional Identity</strong>: Refined "P" symbol with official color palette</li>
-<li><strong>Brand Evolution</strong>: Updated visual identity while maintaining recognizability</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="official-blog-post">Official Blog Post<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog/paysera-new-logo#official-blog-post" class="hash-link" aria-label="Direct link to Official Blog Post" title="Direct link to Official Blog Post">​</a></h2>
-<p>Read the complete story about Paysera's brand evolution and see all logo variations:</p>
-<p>📖 <strong><a href="https://www.paysera.ua/v2/en-UA/blog/new-paysera-logo" target="_blank" rel="noopener noreferrer">Read the full announcement →</a></strong></p>
-<p><em>Published by Justina Šidlauskienė, March 2022</em></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="design-implementation">Design Implementation<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog/paysera-new-logo#design-implementation" class="hash-link" aria-label="Direct link to Design Implementation" title="Direct link to Design Implementation">​</a></h2>
-<p>This documentation site uses the official Paysera logo and brand colors to demonstrate how the new branding can be implemented in developer-focused platforms.</p>
-<hr>
-<p><strong>Note</strong>: This demo site showcases the new Paysera branding in a Docusaurus context. For official brand guidelines and resources, visit <a href="https://paysera.com/" target="_blank" rel="noopener noreferrer">paysera.com</a>.</p>]]></content>
-        <author>
-            <name>Paysera Development Team</name>
-            <uri>https://developers.paysera.com</uri>
-        </author>
-        <category label="Branding" term="Branding"/>
-        <category label="Logo" term="Logo"/>
-        <category label="Company News" term="Company News"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Docusaurus Demo - Paysera Developer Portal Mockup]]></title>
         <id>https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog/docusaurus-demo</id>
         <link href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog/docusaurus-demo"/>
-        <updated>2024-01-15T00:00:00.000Z</updated>
+        <updated>2025-09-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This blog post demonstrates how a modern developer portal could look using Docusaurus with Paysera's official branding.]]></summary>
         <content type="html"><![CDATA[<p>This blog post demonstrates how a modern developer portal could look using Docusaurus with Paysera's official branding.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="about-this-demo">About This Demo<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog/docusaurus-demo#about-this-demo" class="hash-link" aria-label="Direct link to About This Demo" title="Direct link to About This Demo">​</a></h2>
@@ -98,5 +67,36 @@
         <category label="Demo" term="Demo"/>
         <category label="Mockup" term="Mockup"/>
         <category label="Design" term="Design"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paysera Unveils Its Brand New Logo!]]></title>
+        <id>https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog/paysera-new-logo</id>
+        <link href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog/paysera-new-logo"/>
+        <updated>2025-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're excited to share that Paysera has introduced a refreshed brand identity with a stunning new logo design!]]></summary>
+        <content type="html"><![CDATA[<p>We're excited to share that Paysera has introduced a refreshed brand identity with a stunning new logo design!</p>
+<p><img decoding="async" loading="lazy" alt="Paysera New Logo" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAyIiBoZWlnaHQ9IjEzMCIgdmlld0JveD0iMCAwIDEwMiAxMzAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+DQo8ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMjEwXzg1NCkiPg0KPHBhdGggZD0iTTIyLjM2MzEgNTAuNjgwOEgwVjEyOS45ODVIMjIuMzYzMVY1MC42ODA4WiIgZmlsbD0iIzMzQ0M2NiIvPg0KPHBhdGggZD0iTTc5LjMgNTAuNjgwOEM3OS4zNDU1IDU4LjIwMTQgNzYuMzc4OSA2NS40MzM5IDcxLjA0ODcgNzAuNzk3NUM2NS43MTg1IDc2LjE2MTEgNTguNDU4MiA3OS4yMTk2IDUwLjg1NDggNzkuMzA0NFY3OS4zMDQ0QzM3LjMyOCA3OS4zOTM0IDI0LjM4NjYgODQuNzczNyAxNC44NTc4IDk0LjI2OThDNS4zMjkwNCAxMDMuNzY2IC0wLjAxMjU0NDYgMTE2LjYwNiAyLjIxMjM0ZS0wNSAxMjkuOTg1SDIyLjM2MzFDMjIuMzI5OSAxMjIuNDYzIDI1LjMwNDcgMTE1LjIzMyAzMC42Mzg5IDEwOS44NzFDMzUuOTczMiAxMDQuNTA5IDQzLjIzNDMgMTAxLjQ1IDUwLjgzOTMgMTAxLjM2MUM2NC4zNjQ1IDEwMS4yNzYgNzcuMzA1MSA5NS44OTY0IDg2LjgyOTggODYuMzk4NkM5Ni4zNTQ2IDc2LjkwMDcgMTAxLjY4OCA2NC4wNTgyIDEwMS42NjMgNTAuNjgwOEg3OS4zWiIgZmlsbD0iIzAwMDA5OSIvPg0KPHBhdGggZD0iTTUwLjgzOTUgLTAuMDMwNTE3NkMzNy4zMTU2IDAuMDU4NDc5MSAyNC4zNzczIDUuNDM5NzQgMTQuODUzNSAxNC45MzY3QzUuMzI5NjUgMjQuNDMzOCAtMC4wMDUwNjgxMSAzNy4yNzM5IDAuMDE1Njg1MyA1MC42NUgyMi4zNjMzQzIyLjMyMiA0My4xMjgxIDI1LjI5MiAzNS44OTU2IDMwLjYyNDYgMzAuNTMyNEMzNS45NTczIDI1LjE2OTMgNDMuMjE5MiAyMi4xMTEzIDUwLjgyNCAyMi4wMjY1QzU4LjQzMDIgMjIuMTA3MyA2NS42OTQ0IDI1LjE2NCA3MS4wMjc5IDMwLjUyOEM3Ni4zNjE1IDM1Ljg5MjEgNzkuMzMwMiA0My4xMjY5IDc5LjI4NDggNTAuNjVIMTAxLjY0OEMxMDEuNjczIDM3LjI3NTMgOTYuMzQxNCAyNC40MzUxIDg2LjgyMDEgMTQuOTM3N0M3Ny4yOTg3IDUuNDQwMjQgNjQuMzYyIDAuMDU4NDg5OSA1MC44Mzk1IC0wLjAzMDUxNzZWLTAuMDMwNTE3NloiIGZpbGw9IiMzMzk5RkYiLz4NCjwvZz4NCjxkZWZzPg0KPGNsaXBQYXRoIGlkPSJjbGlwMF8yMTBfODU0Ij4NCjxyZWN0IHdpZHRoPSIxMDIiIGhlaWdodD0iMTMwIiBmaWxsPSJ3aGl0ZSIvPg0KPC9jbGlwUGF0aD4NCjwvZGVmcz4NCjwvc3ZnPg==" width="102" height="130" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-new">What's New?<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog/paysera-new-logo#whats-new" class="hash-link" aria-label="Direct link to What's New?" title="Direct link to What's New?">​</a></h2>
+<p>The new Paysera logo represents:</p>
+<ul>
+<li><strong>Modern Design</strong>: Clean, minimalistic approach</li>
+<li><strong>Professional Identity</strong>: Refined "P" symbol with official color palette</li>
+<li><strong>Brand Evolution</strong>: Updated visual identity while maintaining recognizability</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="official-blog-post">Official Blog Post<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog/paysera-new-logo#official-blog-post" class="hash-link" aria-label="Direct link to Official Blog Post" title="Direct link to Official Blog Post">​</a></h2>
+<p>Read the complete story about Paysera's brand evolution and see all logo variations:</p>
+<p>📖 <strong><a href="https://www.paysera.ua/v2/en-UA/blog/new-paysera-logo" target="_blank" rel="noopener noreferrer">Read the full announcement →</a></strong></p>
+<p><em>Published by Justina Šidlauskienė, March 2022</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="design-implementation">Design Implementation<a href="https://lanochkaa.github.io/Paysera-Developer-Portal-Docusaurus-Demo/blog/paysera-new-logo#design-implementation" class="hash-link" aria-label="Direct link to Design Implementation" title="Direct link to Design Implementation">​</a></h2>
+<p>This documentation site uses the official Paysera logo and brand colors to demonstrate how the new branding can be implemented in developer-focused platforms.</p>
+<hr>
+<p><strong>Note</strong>: This demo site showcases the new Paysera branding in a Docusaurus context. For official brand guidelines and resources, visit <a href="https://paysera.com/" target="_blank" rel="noopener noreferrer">paysera.com</a>.</p>]]></content>
+        <author>
+            <name>Paysera Development Team</name>
+            <uri>https://developers.paysera.com</uri>
+        </author>
+        <category label="Branding" term="Branding"/>
+        <category label="Logo" term="Logo"/>
+        <category label="Company News" term="Company News"/>
     </entry>
 </feed>
